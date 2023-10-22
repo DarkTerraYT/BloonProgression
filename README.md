@@ -11,10 +11,10 @@ The Bloon Progression is: Red - Blue - Green - Yellow - Pink - Black + White - P
 
 Easy Ends at Round 10, Medium Ends at Round 15 and Hard Ends at round 21
 
-<h1 align="center">Join The Discord!</h1>
-    
 <a href="https://discord.gg/xegnVEBRuE">
     <img align="left" alt="Discord" height = 90 src="discord.png">
 </a>
 
+<h1 align="center">Join The Discord!</h1>
+    
 [![Requires BTD6 Mod Helper](https://raw.githubusercontent.com/gurrenm3/BTD-Mod-Helper/master/banner.png)](https://github.com/gurrenm3/BTD-Mod-Helper#readme)
