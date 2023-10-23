@@ -11,6 +11,8 @@ The Bloon Progression is: Red - Blue - Green - Yellow - Pink - Black + White - P
 
 Easy Ends at Round 10, Medium Ends at Round 15 and Hard Ends at round 21
 
+<h1 aling="left"><img alt="GitHub all releases" height="25" src="https://img.shields.io/github/downloads/DarkTerraYT/BloonProgression/total?label=Total%20Dowloads"></h1>
+
 <a href="https://discord.gg/xegnVEBRuE">
     <img align="left" alt="Discord" height = 90 src="discord.png">
 </a>
