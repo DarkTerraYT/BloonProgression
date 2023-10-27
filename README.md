@@ -5,7 +5,7 @@
 
 <h1 align="center">BloonProgression</h1>
 
-This mod Adds Three new Game Modes. Bloon Progression Easy, Bloon Progression Medium, and Bloon Progression Hard. 
+This mod Adds Four new Game Modes. Bloon Progression Easy, Bloon Progression Medium, Bloon Progression Hard and the Hardest Bloon Progression w/ Half Cash. 
 
 The Bloon Progression is: Red - Blue - Green - Yellow - Pink - Black + White - Purple - Zebra - Lead (Only in Medium +  Hard) - Rainbow - Ceramic - Moab - Bfb - Fortified Moab - Zomg - Fortified Bfb - Ddt - Fortified Zomg - Fortified Ddt - Bad - Fortified Bad. 
 

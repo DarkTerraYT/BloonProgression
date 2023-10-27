@@ -10,6 +10,8 @@ namespace BloonProgression
     {
         public override string Difficulty => DifficultyType.Easy;
 
+        public override string DisplayName => "Bloon Progression Easy";
+
         public override string BaseGameMode => GameModeType.None;
 
         public override void ModifyBaseGameModeModel(ModModel gameModeModel)
@@ -25,6 +27,8 @@ namespace BloonProgression
     internal class BPM : ModGameMode
     {
         public override string Difficulty => DifficultyType.Medium;
+
+        public override string DisplayName => "Bloon Progression Medium";
 
         public override string BaseGameMode => GameModeType.None;
 
@@ -42,6 +46,8 @@ namespace BloonProgression
     {
         public override string Difficulty => DifficultyType.Hard;
 
+        public override string DisplayName => "Bloon Progression Hard";
+
         public override string BaseGameMode => GameModeType.None;
 
         public override void ModifyBaseGameModeModel(ModModel gameModeModel)
@@ -52,6 +58,24 @@ namespace BloonProgression
             gameModeModel.SetEndingRound(22);
 
             gameModeModel.SetAllCashMultiplier(BloonProgression.HardCashMultiplier);
+        }
+    }
+    internal class BPHHC : ModGameMode
+    {
+        public override string Difficulty => DifficultyType.Hard;
+
+        public override string DisplayName => "Bloon Progression Hard Half Cash";
+
+        public override string BaseGameMode => GameModeType.HalfCash;
+
+        public override void ModifyBaseGameModeModel(ModModel gameModeModel)
+        {
+            gameModeModel.UseRoundSet<BPHR>();
+
+            gameModeModel.SetStartingRound(1);
+            gameModeModel.SetEndingRound(22);
+
+            gameModeModel.SetAllCashMultiplier(BloonProgression.HardCashMultiplier / 2);
         }
     }
 }
