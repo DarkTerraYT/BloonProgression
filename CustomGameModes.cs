@@ -64,7 +64,7 @@ namespace BloonProgression
     {
         public override string Difficulty => DifficultyType.Hard;
 
-        public override string DisplayName => "Bloon Progression Hard";
+        public override string DisplayName => "Bloon Progression Impoppable";
 
         public override string BaseGameMode => GameModeType.Impoppable;
 
