@@ -1,1 +1,1 @@
-Added the Half Cash Game Mode
+Added Impoppable One too. This one might actually be impossible
